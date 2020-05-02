@@ -1,4 +1,5 @@
 # Git Flow
+>Nombre: Diego Corrales Vega
 ## ¿Que es git flow?
 >Es un flujo de trabajo que se basa en el uso de git con el fin de brindar mayor control y organizacion en el proceso de integracion continua de un proyecto.
 ### ¿Porque implementar git flow?
